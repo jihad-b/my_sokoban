@@ -2,11 +2,11 @@
 
 Hello to my project!
 
-#Usage
+# Usage
 
 ./my_sokoban map
 
-#Description
+# Description
 
 map file representing the warehouse map, containing ‘#’ for walls, ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
 
